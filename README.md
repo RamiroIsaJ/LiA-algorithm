@@ -1,5 +1,5 @@
 # LiA-algorithm v. 1.0
-LiA called by **Lightning Aproximatte algorithm** is an optimization algorithm inspired by nature phenomenon knows as lightning.
+LiA called by **Lightning Approximate algorithm** is an optimization algorithm inspired by nature phenomenon knows as lightning.
 
 * LiA is programmed in Python using numpy, scipy and pandas
 
