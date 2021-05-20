@@ -1,11 +1,15 @@
-# LiA-algorithm
-LiA is an optimization algorithm inspired in nature phenomenon knows as lightning.
+# LiA-algorithm v. 1.0
+LiA called by **Lightning Aproximatte algorithm** is an optimization algorithm inspired by nature phenomenon knows as lightning.
 
-LiA is programmed in Python and I have shared the .txt files with the results obtained during the tests. 
-The final 7 files in this repository are the .py files with the code developed in order to present this novel 
-colective intelligence algorithm applied to global optimization problems.
+* LiA is programmed in Python using numpy, scipy and pandas
 
-LiA has been evaluated with 12 wel-known optimization functions. These functions are unimodals and multimodals. 
-Finally, Lia has been compared with 3 swarm algorithms such as PSO (Particle swarm optimization), FWA (Fireworks algorithm) 
+* __.txt files__ show the results obtained during the tests. 
+
+* Files with __.py__ extension contain the code developed to present this novel algorithm based on evolutionary computation conceps for using to global optimization problems.
+
+* LiA has been evaluated with 12 well-known optimization functions in this test version. These functions are unimodals and multimodals. 
+
+* Finally, Lia has been compared with 3 swarm algorithms such as PSO (Particle swarm optimization), FWA (Fireworks algorithm) 
 and ABC (Artificial bee colony optimization).
-These results are shown in .txt files and one script to visualize the performace of each algorithm.
+
+Final results are shown in __.txt files__ to visualize the performace to compare with swarm algorithms.
